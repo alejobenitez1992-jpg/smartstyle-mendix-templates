@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.mendix.com/package/1.0/">
+  <modelerProject xmlns="http://www.mendix.com/modelerProject/1.0/">
+    <module name="ModuleMendixUI" />
+    <projectFile path="project.mpr" />
+    <files>
+      <file path="themesource/modulemendixui/settings.json" />
+      <file path="themesource/modulemendixui/native/design-properties.json" />
+      <file path="themesource/modulemendixui/native/main.js" />
+      <file path="themesource/modulemendixui/web/design-properties.json" />
+      <file path="themesource/modulemendixui/web/main.scss" />
+    </files>
+  </modelerProject>
+</package>
